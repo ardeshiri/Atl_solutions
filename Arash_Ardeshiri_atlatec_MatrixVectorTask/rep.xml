@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="15" failures="0" disabled="0" errors="0" time="0" timestamp="2021-06-06T23:14:45" name="AllTests">
+  <testsuite name="MatrixTest" tests="7" failures="0" disabled="0" errors="0" time="0" timestamp="2021-06-06T23:14:45">
+    <testcase name="CorrectConstruction" status="run" result="completed" time="0" timestamp="2021-06-06T23:14:45" classname="MatrixTest" />
+    <testcase name="IncorrectConstruction" status="run" result="completed" time="0" timestamp="2021-06-06T23:14:45" classname="MatrixTest" />
+    <testcase name="CopyOperation" status="run" result="completed" time="0" timestamp="2021-06-06T23:14:45" classname="MatrixTest" />
+    <testcase name="MoveOperation" status="run" result="completed" time="0" timestamp="2021-06-06T23:14:45" classname="MatrixTest" />
+    <testcase name="SubscriptOperation" status="run" result="completed" time="0" timestamp="2021-06-06T23:14:45" classname="MatrixTest" />
+    <testcase name="MatrixMultiplication" status="run" result="completed" time="0" timestamp="2021-06-06T23:14:45" classname="MatrixTest" />
+    <testcase name="MatrixAddition" status="run" result="completed" time="0" timestamp="2021-06-06T23:14:45" classname="MatrixTest" />
+  </testsuite>
+  <testsuite name="VectorTest" tests="7" failures="0" disabled="0" errors="0" time="0" timestamp="2021-06-06T23:14:45">
+    <testcase name="Construction" status="run" result="completed" time="0" timestamp="2021-06-06T23:14:45" classname="VectorTest" />
+    <testcase name="CopyOperation" status="run" result="completed" time="0" timestamp="2021-06-06T23:14:45" classname="VectorTest" />
+    <testcase name="MoveOperation" status="run" result="completed" time="0" timestamp="2021-06-06T23:14:45" classname="VectorTest" />
+    <testcase name="SubscriptOperation" status="run" result="completed" time="0" timestamp="2021-06-06T23:14:45" classname="VectorTest" />
+    <testcase name="VectorScalarMultiplication" status="run" result="completed" time="0" timestamp="2021-06-06T23:14:45" classname="VectorTest" />
+    <testcase name="VectorPushPop" status="run" result="completed" time="0" timestamp="2021-06-06T23:14:45" classname="VectorTest" />
+    <testcase name="VectorAddition" status="run" result="completed" time="0" timestamp="2021-06-06T23:14:45" classname="VectorTest" />
+  </testsuite>
+  <testsuite name="CommonTest" tests="1" failures="0" disabled="0" errors="0" time="0" timestamp="2021-06-06T23:14:45">
+    <testcase name="CommonMultiplication" status="run" result="completed" time="0" timestamp="2021-06-06T23:14:45" classname="CommonTest" />
+  </testsuite>
+</testsuites>

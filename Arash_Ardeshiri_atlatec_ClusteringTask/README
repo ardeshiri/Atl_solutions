@@ -1,0 +1,5 @@
+the modules used are matplotlib and opencv-python
+to run:
+python3 main.py ./pics/oil1.png
+python3 main.py ./pics/oil2.png
+python3 main.py ./pics/oil3.png
